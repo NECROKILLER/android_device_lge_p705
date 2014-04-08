@@ -1,0 +1,6 @@
+add_lunch_combo aosp_p705-userdebug
+add_lunch_combo aosp_p705-eng
+add_lunch_combo full_p705-userdebug
+add_lunch_combo full_p705-eng
+add_lunch_combo cm_p705-eng
+add_lunch_combo cm_p705-userdebug
